@@ -1,4 +1,4 @@
-Apparently this was written using Zurb Foundation instead of Bootstrap so I will probably scrap it and make a new version when I have time to rebuild.
+Apparently this was written using Zurb Foundation instead of Bootstrap so I will scrap it and make a new version when I have time to rebuild.
 
 Notes from the js file:
 
